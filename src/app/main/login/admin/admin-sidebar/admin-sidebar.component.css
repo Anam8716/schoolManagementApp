@@ -1,0 +1,17 @@
+.w3-sidebar{
+    background-image:url('../../../../../assets/greyMountains.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    height:100vh;
+    }
+    
+.w3-sidebar p{
+   padding-left:40px;
+   color:white;font-size:20px;
+   font-style:underline;
+   
+}
+.col-sm{
+   margin-top:30px;
+}

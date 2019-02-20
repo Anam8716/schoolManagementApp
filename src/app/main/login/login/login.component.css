@@ -1,0 +1,127 @@
+.background{
+    background-image:url('../../../../assets/kidsBackground.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+    height:100hv;
+    padding-bottom:25px;
+    padding-top:25px;
+}
+.container  {
+	height:680px;
+	width:100%;
+	display:block;
+	margin-top:30px;
+	border-radius: 30px;
+	background-image:url('../../../../assets/whiteImage.jpg');
+    opacity:.9;
+    
+    
+}
+.cardBack{
+	opacity:1.5;
+}
+
+
+.card{
+    width: 15%;
+    height: 295px;
+    margin: 1%;
+    overflow: hidden;
+    display: inline-block;
+    border: solid 1px #ddd;
+    box-shadow: 0px 10px 20px grey;
+    transition: all 0.2s;
+	background-color:white;
+    
+}
+
+.top-section{
+	padding-top:10px;
+    position: relative;
+}
+.top-section img{
+width: 100%;
+}
+.menuicon{
+    position: absolute;
+    width: 22px;
+    left: 20px;
+    top: 20px;
+}
+.menuicon span{
+    width: 100%;
+    height: 3px;
+    background: #000;
+    position: relative;
+    display: block;
+    margin-bottom: 6px;
+    opacity: .5;
+    transition: .4s;
+
+}
+.menuicon .s1{
+    left: -5px;
+
+
+}
+.menuicon .s2{
+    left: 5px;
+}
+.menuicon:hover span{
+left: 0;
+}
+.name{
+    position: absolute;
+    bottom:10px;
+    left:10px;
+    font-size: 15px;
+    font-weight: 900;
+    opacity: .8;
+	color:white;
+
+}
+
+.name span{
+text-transform: uppercase;
+font-weight: 600;
+
+}
+.info-section{
+    
+    padding-top:0;
+    color:#333;
+    font-size: 10px; 
+}
+h1{
+    position: relative;
+    font-size: 30px;
+    border-bottom:1px solid black;
+}
+h2{
+    position: relative;
+    font-size: 10px;
+
+}
+.border{
+    width: 30px;
+    height: 3px;
+    background: #778beb;
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+}
+.s-m{
+    text-align: center;
+    margin-top: 20px;
+
+}
+.s-m a{
+    text-decoration: none;
+    font-size: 15px;
+    color:#333;
+    padding: 0 10px;
+    transition: .4s;
+}
+.s-m a:hover{
+    color:#778beb;
+}

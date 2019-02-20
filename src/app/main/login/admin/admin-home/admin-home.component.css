@@ -1,0 +1,97 @@
+.w3-sidebar{
+    background-image:url('../../../../../assets/greyMountains.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    height:100vh;
+    
+    }
+    
+.w3-sidebar p{
+   padding-left:40px;
+   color:white;font-size:20px;
+   font-style:underline;
+   
+}
+.col-sm{
+   margin-top:30px;
+}
+.heading{
+   padding-top:0px;
+   margin-top:0px;
+   background-image:url('../../../../../assets/headingImage.jpg');
+   background-repeat:no-repeat;
+   background-size:cover;
+   
+}
+.heading p{
+   
+   color:white;
+   font-size:30px;
+   font-family: Sans-Serif;
+   padding:20px;
+   margin-top:3px;
+}
+#Footer{
+   
+   color:white;
+   background-color:black;
+   padding:5px;
+}
+.icon{
+   margin:5px;
+   float:right;
+   height:20px;
+   width:20px;
+}
+#form{
+   color:black;
+  
+   padding-left:50px;
+   
+   
+}
+#form input{
+   border-left:0px;
+   border-top:0px;
+   border-right:0px;
+   margin-top:10px;
+   width:300px;
+}
+#form label{
+   margin-top:20px;
+}
+#rightForm{
+   
+   border-left:2px solid grey;
+}
+#submit{
+   color:white;
+   background-color:black;
+}
+.hline{
+   border-bottom:1px solid black;
+   margin-left:25%;
+   margin-top:20px;
+   margin-bottom:0px;
+   padding-bottom:0px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+.main{
+    background-image: url('../../../assets/kidsBackground.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:100vh;
+    
+}
+.logo{
+    padding-left:400px;
+    padding-top:100px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    
+}
+.name{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 80px;
+    color: white;
+    padding-left:550px;
+    padding-bottom: 0px;
+    
+   
+}
+.subHeading{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-left:550px;
+    font-style: italic
+
+}
+.footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: right;
+}
+.fa {
+  
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  color: white;
+}
+
+.fa-twitter {
+  color: white;
+}
+.fa-instagram {
+  color: white;
+}
+
